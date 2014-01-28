@@ -10,3 +10,7 @@ plus-EXPLORE
 ###Based on a code by Ron Begleiter and Dmitry Pechyony. Using spectral-clustering implementation of Zelnik-Manor and Perona (http://webee.technion.ac.il/~lihi/Demos/SelfTuningClustering.html).
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ronbee/plus-explore/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
